@@ -91,11 +91,25 @@
 </p>
 ---
 
+---
+
 # 📈 Contribution Activity Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=s0ohail77&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github.com/S0ohail77.png?size=200" width="100" />
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/S0ohail77">
+<img src="https://img.shields.io/github/followers/S0ohail77?label=Followers&style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/S0ohail77?tab=overview">
+<img src="https://img.shields.io/badge/View-Contributions-181717?style=for-the-badge&logo=github" />
+</a>
 
 </p>
 
