@@ -201,15 +201,16 @@
 
 
 
+---
+
 # 🔥 Contribution Streak
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=S0ohail77&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=S0ohail77&theme=tokyonight&hide_border=true"
     alt="Sohail Khan GitHub Contribution Streak"
   />
 </p>
-
 
 
 # 📊 GitHub Activity
