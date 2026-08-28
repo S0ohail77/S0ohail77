@@ -24,7 +24,7 @@ MERN Stack Developer | Frontend Developer | Tech Enthusiast from India
   * Ask me about **React, JavaScript, MERN Stack**
 *  Reach me at **[sohailK0406@gmail.com](mailto:sohailK0406@gmail.com)**
 *  Fun fact: **I love playing cricket and other sports**
-* 🎯 Goal: **Become a skilled Full Stack Developer**
+* Goal: **Become a skilled Full Stack Developer**
 
 <br clear="both">
 
