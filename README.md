@@ -199,9 +199,6 @@
 
 ---
 
-# 🔥 Contribution Streak
-
----
 
 # 🔥 Contribution Streak
 
