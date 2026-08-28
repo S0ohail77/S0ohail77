@@ -64,20 +64,17 @@
 
 ---
 
+
+
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=s0ohail77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=s0ohail77&theme=tokyonight&hide_border=true" />
-
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=S0ohail77&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S0ohail77&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0ohail77&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=S0ohail77&show_icons=true&hide=issues&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
