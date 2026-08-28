@@ -93,6 +93,8 @@
 
 ---
 
+---
+
 # 📈 Contribution Activity Graph
 
 <p align="center">
@@ -111,9 +113,7 @@
 <img src="https://img.shields.io/badge/View-Contributions-181717?style=for-the-badge&logo=github" />
 </a>
 
-</p>
-
----
+</p>---
 
 ---
 
