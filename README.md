@@ -66,17 +66,29 @@
 
 
 
+---
+
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=S0ohail77&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S0ohail77&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://img.shields.io/github/followers/S0ohail77?style=for-the-badge&logo=github&label=Followers" />
+
+<img src="https://img.shields.io/github/stars/S0ohail77?style=for-the-badge&logo=github&label=Stars" />
+
+<img src="https://img.shields.io/github/repos/S0ohail77?style=for-the-badge&logo=github&label=Repositories" />
+
+<img src="https://img.shields.io/github/commit-activity/y/S0ohail77?style=for-the-badge&logo=github&label=Commits%20This%20Year" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S0ohail77&show_icons=true&hide=issues&theme=tokyonight&hide_border=true" />
-</p>
 
+<img src="https://img.shields.io/github/last-commit/S0ohail77/Employee-Management-System?style=for-the-badge&logo=github&label=Last%20Commit" />
+
+<img src="https://img.shields.io/github/languages/count/S0ohail77/Employee-Management-System?style=for-the-badge&logo=github&label=Languages" />
+
+</p>
 ---
 
 # 📈 Contribution Activity Graph
