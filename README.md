@@ -1,27 +1,211 @@
 <h1 align="center">Hi 👋, I'm Sohail Khan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s0ohail77&label=Profile%20views&color=0e75b6&style=flat" alt="s0ohail77" /> </p>
+<h3 align="center">
+  🚀 MERN Stack Developer | Frontend Developer | Tech Enthusiast from India 🇮🇳
+</h3>
 
-- 🔭 I’m currently working on [Employee Management System](https://github.com/S0ohail77/Employee-Management-System)
-
-- 🌱 I’m currently learning **Next.JS**
-
-- 👯 I’m looking to collaborate on **Predictive Analysis**
-
-- 💬 Ask me about **I am a MERN Developer**
-
-- 📫 How to reach me **sohailK0406@gmail.com**
-
-- ⚡ Fun fact **I like playing cricket and other sports.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sohailkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sohailkhan" height="30" width="40" /></a>
-<a href="https://instagram.com/sohail07_77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sohail07_77" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=s0ohail77&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=s0ohail77&show_icons=true&locale=en&layout=compact" alt="s0ohail77" /></p>
+---
+
+## 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+
+* 🔭 Currently working on **Employee Management System**
+* 🌱 Currently learning **Next.js**
+* 👯 Looking to collaborate on **Predictive Analysis & Web Development Projects**
+* 💬 Ask me about **React, JavaScript, MERN Stack**
+* 📫 Reach me at **[sohailK0406@gmail.com](mailto:sohailK0406@gmail.com)**
+* ⚡ Fun fact: **I love playing cricket and other sports 🏏**
+* 🎯 Goal: **Become a skilled Full Stack Developer**
+
+<br clear="both">
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/sohailkhan">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+  
+
+<a href="https://instagram.com/sohail07_77">
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+</a>
+
+  
+
+<a href="mailto:sohailK0406@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,java,git,github,tailwind,bootstrap,linux,vscode" />
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=s0ohail77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=s0ohail77&theme=tokyonight&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0ohail77&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 📈 Contribution Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=s0ohail77&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=s0ohail77&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+</p>
+
+---
+
+# 📌 Featured Projects
+
+## 👨‍💼 Employee Management System
+
+🔹 A web-based Employee Management System built using modern web technologies.
+
+### ✨ Features
+
+* 👨‍💼 Employee Management
+* 📋 Task Management
+* 🔐 Authentication
+* 📊 Dashboard
+* ⚡ Responsive UI
+
+### 🛠️ Tech Used
+
+`React` `JavaScript` `Tailwind CSS`
+
+<p>
+
+<a href="https://github.com/S0ohail77/Employee-Management-System">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=S0ohail77&repo=Employee-Management-System&theme=tokyonight&hide_border=true"/>
+
+</a>
+
+</p>
+
+---
+
+# 📦 GitHub Repository Analytics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s0ohail77&theme=tokyonight" width="100%"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=s0ohail77&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=s0ohail77&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=s0ohail77&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=s0ohail77&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=s0ohail77&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=s0ohail77&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+
+</p>
+
+---
+
+# 🚀 Current Focus
+
+```text
+💻 Building MERN Stack Projects
+⚛️ Improving React Skills
+▲ Learning Next.js
+🧠 Exploring Machine Learning & Predictive Analysis
+🌐 Building Real-World Web Applications
+```
+
+---
+
+# 💡 Developer Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ If you like my work, consider giving my repositories a star!
+</h3>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+
+</p>
