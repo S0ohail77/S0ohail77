@@ -200,26 +200,17 @@
 ---
 
 
+
 # 🔥 Contribution Streak
 
 <p align="center">
-  <a href="https://github.com/S0ohail77">
-    <img src="https://img.shields.io/github/commit-activity/y/S0ohail77?style=for-the-badge&logo=github&logoColor=white&label=Yearly%20Commits" />
-  </a>
-
-  <a href="https://github.com/S0ohail77">
-    <img src="https://img.shields.io/github/commit-activity/m/S0ohail77?style=for-the-badge&logo=github&logoColor=white&label=Monthly%20Commits" />
-  </a>
-
-  <a href="https://github.com/S0ohail77">
-    <img src="https://img.shields.io/github/last-commit/S0ohail77/Employee-Management-System?style=for-the-badge&logo=github&logoColor=white&label=Last%20Commit" />
-  </a>
+  <img
+    src="https://streak-stats.demolab.com?user=S0ohail77&theme=tokyonight&hide_border=true"
+    alt="Sohail Khan GitHub Contribution Streak"
+  />
 </p>
----
 
-# 📊 GitHub Activity
 
----
 
 # 📊 GitHub Activity
 
