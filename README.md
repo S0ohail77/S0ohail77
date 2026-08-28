@@ -18,12 +18,12 @@
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-* 🔭 Currently working on **Employee Management System**
-* 🌱 Currently learning **Next.js**
-* 👯 Looking to collaborate on **Predictive Analysis & Web Development Projects**
+*  Currently working on **Employee Management System**
+*  Currently learning **Next.js**
+*  Looking to collaborate on **Predictive Analysis & Web Development Projects**
 * 💬 Ask me about **React, JavaScript, MERN Stack**
-* 📫 Reach me at **[sohailK0406@gmail.com](mailto:sohailK0406@gmail.com)**
-* ⚡ Fun fact: **I love playing cricket and other sports 🏏**
+*  Reach me at **[sohailK0406@gmail.com](mailto:sohailK0406@gmail.com)**
+* ⚡ Fun fact: **I love playing cricket and other sports**
 * 🎯 Goal: **Become a skilled Full Stack Developer**
 
 <br clear="both">
