@@ -115,11 +115,29 @@
 
 ---
 
+---
+
 # 🏆 GitHub Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=s0ohail77&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<a href="https://github.com/S0ohail77?tab=achievements">
+<img src="https://img.shields.io/badge/🏆%20GitHub%20Achievements-View%20Profile-181717?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/S0ohail77?tab=repositories">
+<img src="https://img.shields.io/badge/📦%20Repositories-View%20All-181717?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/S0ohail77?tab=stars">
+<img src="https://img.shields.io/badge/⭐%20Stars-View%20All-181717?style=for-the-badge" />
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=S0ohail77&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
 
 </p>
 
