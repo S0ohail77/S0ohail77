@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sohail Khan</h1>
 
 <h3 align="center">
-  🚀 MERN Stack Developer | Frontend Developer | Tech Enthusiast from India 🇮🇳
+MERN Stack Developer | Frontend Developer | Tech Enthusiast from India 
 </h3>
 
 <p align="center">
@@ -21,9 +21,9 @@
 *  Currently working on **Employee Management System**
 *  Currently learning **Next.js**
 *  Looking to collaborate on **Predictive Analysis & Web Development Projects**
-* 💬 Ask me about **React, JavaScript, MERN Stack**
+  * Ask me about **React, JavaScript, MERN Stack**
 *  Reach me at **[sohailK0406@gmail.com](mailto:sohailK0406@gmail.com)**
-* ⚡ Fun fact: **I love playing cricket and other sports**
+*  Fun fact: **I love playing cricket and other sports**
 * 🎯 Goal: **Become a skilled Full Stack Developer**
 
 <br clear="both">
