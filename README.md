@@ -201,19 +201,46 @@
 
 # 🔥 Contribution Streak
 
+---
+
+# 🔥 Contribution Streak
+
 <p align="center">
+  <a href="https://github.com/S0ohail77">
+    <img src="https://img.shields.io/github/commit-activity/y/S0ohail77?style=for-the-badge&logo=github&logoColor=white&label=Yearly%20Commits" />
+  </a>
 
-<img src="https://streak-stats.demolab.com?user=s0ohail77&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/S0ohail77">
+    <img src="https://img.shields.io/github/commit-activity/m/S0ohail77?style=for-the-badge&logo=github&logoColor=white&label=Monthly%20Commits" />
+  </a>
 
+  <a href="https://github.com/S0ohail77">
+    <img src="https://img.shields.io/github/last-commit/S0ohail77/Employee-Management-System?style=for-the-badge&logo=github&logoColor=white&label=Last%20Commit" />
+  </a>
 </p>
+---
+
+# 📊 GitHub Activity
 
 ---
 
 # 📊 GitHub Activity
 
 <p align="center">
+  <a href="https://github.com/S0ohail77">
+    <img src="https://github.com/S0ohail77.png" width="120" alt="Sohail Khan GitHub Profile"/>
+  </a>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=s0ohail77&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+<p align="center">
+
+<a href="https://github.com/S0ohail77?tab=overview">
+  <img src="https://img.shields.io/badge/Contribution%20Activity-View%20on%20GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/S0ohail77?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View%20All-181717?style=for-the-badge&logo=github" />
+</a>
 
 </p>
 
