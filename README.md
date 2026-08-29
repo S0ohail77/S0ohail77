@@ -18,7 +18,7 @@ MERN Stack Developer | Frontend Developer | Tech Enthusiast from India
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-*  Currently working on **Employee Management System**
+*  Currently working on **MERN Stack Project With AI-Integration**
 *  Currently learning **Next.js**
 *  Looking to collaborate on **Predictive Analysis & Web Development Projects**
   * Ask me about **React, JavaScript, MERN Stack**
